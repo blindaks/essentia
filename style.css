@@ -40,6 +40,9 @@ p {
 .card:hover {
     transform: scale(1.2);
 }
+i{
+    color: black;
+}
 .footers {
     margin-bottom: 0;
     padding-bottom: 0;
